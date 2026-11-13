@@ -9,46 +9,6 @@ Dengan menggunakan skill/prompt di dalam repositori ini, Anda dapat mengubah AI 
 
 ---
 
-## 📂 Struktur Repositori
-
-Skill-skill di dalam repositori ini dikategorikan berdasarkan fungsinya agar mudah ditemukan:
-
-```text
-📁 ai-prompt-skills-library/
-│
-├── 📄 README.md
-│
-├── 📁 developer/
-│   ├── vibe-coding.md          # Spesialis pembuatan aplikasi end-to-end & debugging
-│   └── anatomi-prompt-v2.md    # Framework konversi prompt singkat menjadi master prompt
-│
-├── 📁 creative/
-│   ├── design-visual-prompter.md # Generator prompt presisi untuk Midjourney/DALL-E
-│   └── scene-storyboard-director.md # Konseptor visual dan penceritaan adegan (storyboard)
-│
-└── 📁 writing/
-    └── anti-slop.md            # Filter penulisan untuk teks natural, manusiawi, dan to-the-point
-```
-
----
-
-## 🛠️ Daftar Skill
-
-Berikut adalah deskripsi singkat dari masing-masing skill yang tersedia:
-
-### 1. Developer Skills
-*   **[Anatomi Prompt v2](./developer/anatomi-prompt-v2.md)**: Mengubah instruksi acak dan singkat dari pengguna menjadi struktur prompt profesional yang terdiri dari Role, Task, Context, Reasoning, Stop Conditions, dan Output.
-*   **[Vibe Coding](./developer/vibe-coding.md)**: Sistem instruksi untuk *Full-Stack Developer AI* yang memberikan kode utuh, bebas error, terintegrasi, dan panduan instalasi siap pakai tanpa teks narasi yang berlebihan.
-
-### 2. Creative Skills
-*   **[Design & Visual Prompter](./creative/design-visual-prompter.md)**: Mengonversi ide kasar menjadi prompt visual tingkat tinggi yang memperhatikan subjek, *style*, pencahayaan, jenis kamera, dan rasio aspek.
-*   **[Scene & Storyboard Director](./creative/scene-storyboard-director.md)**: Merancang visualisasi adegan berurutan untuk kebutuhan video, komik, atau animasi dengan detail pergerakan kamera dan komposisi layar.
-
-### 3. Writing Skills
-*   **[Anti-Slop (Humanized Text)](./writing/anti-slop.md)**: Mencegah AI menghasilkan teks dengan gaya bahasa generik/robotik. Skill ini memaksa AI menulis dengan lugas, padat, alami, dan tanpa basa-basi mekanis.
-
----
-
 ## 💡 Cara Penggunaan
 
 Anda dapat mengimplementasikan skill ini pada berbagai platform AI:
