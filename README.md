@@ -1,9 +1,8 @@
-# 🚀 AI Prompt Skills Library
-
+# 🚀 AI Standart Skill
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
-Selamat datang di **AI Prompt Skills Library**! Repositori ini berisi koleksi *System Prompts* (Instruksi Sistem) tingkat lanjut yang dirancang khusus untuk mengoptimalkan kinerja Large Language Models (LLM) seperti ChatGPT, Gemini, Claude, dan lainnya. 
+Selamat datang di **AI Standart Skill**! Repositori ini berisi koleksi *System Prompts* (Instruksi Sistem) tingkat lanjut yang dirancang khusus untuk mengoptimalkan kinerja Large Language Models (LLM) seperti ChatGPT, Gemini, Claude, dan lainnya. 
 
 Dengan menggunakan skill/prompt di dalam repositori ini, Anda dapat mengubah AI asisten standar menjadi spesialis di berbagai bidang, mulai dari *Software Engineering*, *Creative Direction*, hingga *Professional Writing*.
 
